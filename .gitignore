@@ -1,0 +1,17 @@
+# Node.js
+node_modules/
+.env
+.DS_Store
+
+# Logs
+logs
+*.log
+
+# Vercel/Deployment
+.vercel
+
+# VS Code settings
+.vscode/
+
+# OS junk
+Thumbs.db
